@@ -28,10 +28,8 @@ Download URL : https://git-scm.com/downloads
 ## Git 커밋하기
 1. Commit 버튼을 클릭한다.
 2. (초기설정) 하단의 터미널에 접속하여 아래 명령어를 입력한다
-<br>
-
     ```
     git config user.name (github 이름)
     git config user.email (github 이메일)
     ```
-3. 
+3. vscode에 message를 입력하여 commit 한다.
